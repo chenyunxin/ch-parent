@@ -8,5 +8,6 @@ public class BaseRes {
 
     private String msg;
 
+
     private T data;
 }
